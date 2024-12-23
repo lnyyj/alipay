@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/smartwalle/alipay/v3"
+	"github.com/lnyyj/alipay"
 	"github.com/smartwalle/xid"
 )
 

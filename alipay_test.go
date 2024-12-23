@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/smartwalle/alipay/v3"
+	"github.com/lnyyj/alipay"
 )
 
 var (

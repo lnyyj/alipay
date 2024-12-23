@@ -3,7 +3,7 @@ package alipay_test
 import (
 	"testing"
 
-	"github.com/smartwalle/alipay/v3"
+	"github.com/lnyyj/alipay"
 )
 
 func TestClient_TradeWapPay(t *testing.T) {
